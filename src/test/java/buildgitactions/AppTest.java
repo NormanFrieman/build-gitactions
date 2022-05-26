@@ -1,4 +1,4 @@
-package build-gitactions;
+package buildgitactions;
 
 import static org.junit.Assert.assertTrue;
 
